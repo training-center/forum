@@ -2,6 +2,12 @@
 
 Dúvidas, dicas e sugestões gerais sobre carreira na área de desenvolvimento de software
 
+> **Disclaimer:** _As opiniões aqui publicadas são de inteira responsabilidade de seus autores e não refletem, necessariamente, o posicionamento da organização._ 
+
+<p align="center">
+  <a href="https://github.com/training-center/forum/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc"><img src="https://raw.githubusercontent.com/training-center/forum/master/assets/img/button.png" alt="Participe do nosso forum" width="120"/></a>
+</p>
+
 ## Sobre este forum
 
 Este forum foi criado com a intenção de ajudar pessoas que tem dúvidas sobre carreira em desenvolvimento de software.
