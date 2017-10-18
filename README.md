@@ -6,7 +6,7 @@ Dúvidas, dicas e sugestões gerais sobre carreira na área de desenvolvimento d
 
 Este forum foi criado com a intenção de ajudar pessoas que tem dúvidas sobre carreira em desenvolvimento de software.
 
-Nos reservamos aqui a discutir somente sobre carreira. Portanto dúvidas muito específicas como **“por que usar biblioteca x”** serão direcionadas a outros foruns como o [frontendbr](https://github.com/frontendbr/forum) e [backend-br](https://github.com/backend-br/forum).
+Nos reservamos aqui a discutir somente sobre carreira. Portanto dúvidas muito específicas como **“por que usar biblioteca x”** serão direcionadas a outros foruns como o [frontendbr](https://github.com/frontendbr/forum), [deveopsbrazil](https://github.com/devopsbrazil/forum) e [backend-br](https://github.com/backend-br/forum).
 
 Utilize este espaço para buscar ajuda sobre como começar na área de desenvolvimento, para contar seu perfil e buscar ajuda para melhorar, ou mesmo contar seu perfil e perguntar quais são os próximos passos para crescer profissionalmente, etc.
 
