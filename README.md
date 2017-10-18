@@ -23,3 +23,12 @@ Este forum funcionará igual ao [mentoria](https://github.com/training-center/me
 Se você tem alguma dúvida, pergunte! 
 
 Não perca a oportunidade. Nenhuma pergunta é ruim ou burra. Estamos aqui para te ajudar.
+
+## Vantagens do Github
+
+* Espaço usado por quase todas as pessoas que mexem com desenvolvimento
+* É uma rede social
+* A busca funciona muito bem
+* Escalável
+* Organizável
+* Menos trabalho de infra para manter
