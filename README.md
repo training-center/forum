@@ -8,7 +8,7 @@ Dúvidas, dicas e sugestões gerais sobre carreira na área de desenvolvimento d
   <a href="https://github.com/training-center/forum/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc"><img src="https://raw.githubusercontent.com/training-center/forum/master/assets/img/button.png" alt="Participe do nosso forum" width="120"/></a>
 </p>
 
-## Sobre este forum
+## Propósito 
 
 Este forum foi criado com a intenção de ajudar pessoas que tem dúvidas sobre carreira em desenvolvimento de software.
 
