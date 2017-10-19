@@ -43,3 +43,7 @@ Não perca a oportunidade. Nenhuma pergunta é ruim ou burra. Estamos aqui para 
 ## Código de Conduta
 
 Como todas as outras iniciativas do Training Center, seguimos nosso [código de conduta](https://trainingcenter.io/sobre/CONDUCT) aqui também.
+
+## Idioma
+
+**Todas** as issues devem ser abertas e respondidas em **pt-br**.
