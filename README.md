@@ -55,3 +55,7 @@ Você pode receber atualizações do Forum no seu email ou via notificações do
 <p align="center">
   <img src="http://s31.postimg.org/nt5f6bbff/watch_github_forum.png" alt="Watch GitHub repo"/>
 </p>
+
+## Licença
+
+[MIT](LICENSE) &copy; Training Center.
