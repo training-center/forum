@@ -10,6 +10,17 @@ Este forum é fortemente baseado em um projeto que já vem dando muito certo [fr
   <a href="https://github.com/training-center/forum/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc"><img src="https://raw.githubusercontent.com/training-center/forum/master/assets/img/button.png" alt="Participe do nosso forum" width="120"/></a>
 </p>
 
+## Sumário
+
+* [Propósito](#propósito)
+* [Nenhuma dúvida é ruim](#nenhuma-dúvida-é-ruim)
+* [Vantagens do Github](#vantagens-do-github)
+* [Pontos importantes](#pontos-importantes)
+* [Código de Conduta](#código-de-conduta)
+* [Idioma](#idioma)
+* [Como receber atualizações do Forum](#como-receber-atualizações-do-forum)
+* [Outros projetos do Training Center](#outros-projetos-do-training-center)
+
 ## Propósito 
 
 Este forum foi criado com a intenção de ajudar pessoas que tem dúvidas sobre carreira em desenvolvimento de software.
