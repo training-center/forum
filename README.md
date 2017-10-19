@@ -56,6 +56,17 @@ Você pode receber atualizações do Forum no seu email ou via notificações do
   <img src="http://s31.postimg.org/nt5f6bbff/watch_github_forum.png" alt="Watch GitHub repo"/>
 </p>
 
+## Outros projetos do Training Center
+
+* [Mentoria](https://github.com/training-center/mentoria)
+* [Grupos de Estudos](https://github.com/training-center/study-groups)
+* [Code Review](https://github.com/training-center/code-review)
+* [Code House](https://github.com/training-center/code-house)
+* [Slack](https://github.com/training-center/slack)
+* [Weekly](https://github.com/training-center/weekly)
+* [Meetups](https://github.com/training-center/meetups)
+* [Hackathon](https://github.com/training-center/hackathon)
+
 ## Licença
 
 [MIT](LICENSE) &copy; Training Center.
