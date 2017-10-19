@@ -47,3 +47,11 @@ Como todas as outras iniciativas do Training Center, seguimos nosso [código de 
 ## Idioma
 
 **Todas** as issues devem ser abertas e respondidas em **pt-br**.
+
+## Como receber atualizações do Forum
+
+Você pode receber atualizações do Forum no seu email ou via notificações do GitHub, basta clicar em **Watch** e, em seguida, clicar em **Watching** no canto superior direito da interface do site, próximo a sua foto de perfil.
+
+<p align="center">
+  <img src="http://s31.postimg.org/nt5f6bbff/watch_github_forum.png" alt="Watch GitHub repo"/>
+</p>
