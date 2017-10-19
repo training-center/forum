@@ -2,6 +2,8 @@
 
 Dúvidas, dicas e sugestões gerais sobre carreira na área de desenvolvimento de software
 
+Este forum é fortemente baseado em um projeto que já vem dando muito certo [frontendbr/forum](https://github.com/frontendbr/forum)
+
 > **Disclaimer:** _As opiniões aqui publicadas são de inteira responsabilidade de seus autores e não refletem, necessariamente, o posicionamento da organização._ 
 
 <p align="center">
