@@ -39,3 +39,7 @@ Não perca a oportunidade. Nenhuma pergunta é ruim ou burra. Estamos aqui para 
 * Evite sair do escopo inicial da issue. Caso necessário, crie uma nova e mencione o número.
 * Se precisar de ajuda em um código, forneça trechos, Gists, e lembre-se, ninguém tem a obrigação de resolver seu problema.
 * Não seja um monólogo que só fala de si. Interaja com as respostas, cite pessoas, gere uma discussão saudável e construtiva. Afinal, quanto mais informações, mais rico nosso ambiente será e ajudará mais pessoas.
+
+## Código de Conduta
+
+Como todas as outras iniciativas do Training Center, seguimos nosso [código de conduta](https://trainingcenter.io/sobre/CONDUCT) aqui também.
