@@ -32,3 +32,10 @@ Não perca a oportunidade. Nenhuma pergunta é ruim ou burra. Estamos aqui para 
 * Escalável
 * Organizável
 * Menos trabalho de infra para manter
+
+## Pontos importantes
+
+* Escreva o português de forma correta e bem pontuado.
+* Evite sair do escopo inicial da issue. Caso necessário, crie uma nova e mencione o número.
+* Se precisar de ajuda em um código, forneça trechos, Gists, e lembre-se, ninguém tem a obrigação de resolver seu problema.
+* Não seja um monólogo que só fala de si. Interaja com as respostas, cite pessoas, gere uma discussão saudável e construtiva. Afinal, quanto mais informações, mais rico nosso ambiente será e ajudará mais pessoas.
