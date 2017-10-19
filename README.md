@@ -23,7 +23,9 @@ Este forum é fortemente baseado em um projeto que já vem dando muito certo [fr
 
 ## Propósito 
 
-Este forum foi criado com a intenção de ajudar pessoas que tem dúvidas sobre carreira em desenvolvimento de software.
+Este forum foi criado pela sugestão do [Rodrigo Serradura](https://twitter.com/serradura) em nosso [Slack](https://github.com/training-center/slack) depois de uma longa conversa sobre como automatizar as respostas para dúvidas repetidas no [Mentoria](https://github.com/training-center/mentoria/).
+
+Nossa intenção aqui é ajudar pessoas que tem dúvidas sobre carreira em desenvolvimento de software.
 
 Nos reservamos aqui a discutir somente sobre carreira. Portanto dúvidas muito específicas como **“por que usar biblioteca x”** serão direcionadas a outros foruns como o [frontendbr](https://github.com/frontendbr/forum), [deveopsbrazil](https://github.com/devopsbrazil/forum) e [backend-br](https://github.com/backend-br/forum).
 
